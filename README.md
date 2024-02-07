@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Bruno Landeiro</h1>
-<h4 align="center">A motivated and dedicated Software Developer with a passion for learning and a strong foundation in computer science principles.</h4>
+# Hi, I'm Bruno! 👋
 
-- 📫 How to reach me **landeiro.b@gmail.com**
+## About Me
 
+A motivated and dedicated Software Developer with a passion for learning and a strong foundation in computer science principles.
+
+## 🛠 Principal Skills
+
+Java, Javascript, HTML, CSS, SQL, NoSQL, Apache Camel, AWS, Docker.
+
+## 🔗 Contact me
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-landeiro/)
