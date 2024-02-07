@@ -1,8 +1,6 @@
 # Hi, I'm Bruno! 👋
 
-## 🧑‍💻 About Me
-
-A Software Developer with a passion for learning and a strong foundation in computer science principles.
+## A Software Developer with a passion for learning and a strong foundation in computer science principles. 🧑‍💻
 
 ## 🛠️ Tools / Skills
 
